@@ -1,2 +1,3 @@
-# subnet-mask-calculator
- Helper program to help you calculate subnet mask from prefix.
+# Subnet Mask Calculator
+
+Network's subnet mask calculator. Takes prefix as input and outputs a subnet mask.
