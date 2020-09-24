@@ -19,7 +19,7 @@ namespace SubnetMaskCalculator
 
         private void toolStripStatusLabel1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Subnet Mask Calculator/Helper.\nMade by aurmat2@ktu\nhttps://gitlab.com/aurismat","About");
+            MessageBox.Show("Subnet Mask Calculator/Helper.\nMade by aurismat\nhttps://github.com/aurismat","About");
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)

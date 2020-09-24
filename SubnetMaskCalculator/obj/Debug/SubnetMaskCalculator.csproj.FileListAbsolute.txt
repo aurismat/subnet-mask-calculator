@@ -18,3 +18,13 @@ C:\Users\Auris\Documents\Git\subnet-mask-calculator\SubnetMaskCalculator\obj\Deb
 C:\Users\Auris\Documents\Git\subnet-mask-calculator\SubnetMaskCalculator\obj\Debug\SubnetMaskCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Auris\Documents\Git\subnet-mask-calculator\SubnetMaskCalculator\obj\Debug\SubnetMaskCalculator.exe
 C:\Users\Auris\Documents\Git\subnet-mask-calculator\SubnetMaskCalculator\obj\Debug\SubnetMaskCalculator.pdb
+C:\Users\Auris\Documents\GitHub\subnet-mask-calculator\SubnetMaskCalculator\bin\Debug\SubnetMaskCalculator.exe.config
+C:\Users\Auris\Documents\GitHub\subnet-mask-calculator\SubnetMaskCalculator\bin\Debug\SubnetMaskCalculator.exe
+C:\Users\Auris\Documents\GitHub\subnet-mask-calculator\SubnetMaskCalculator\bin\Debug\SubnetMaskCalculator.pdb
+C:\Users\Auris\Documents\GitHub\subnet-mask-calculator\SubnetMaskCalculator\obj\Debug\SubnetMaskCalculator.csprojAssemblyReference.cache
+C:\Users\Auris\Documents\GitHub\subnet-mask-calculator\SubnetMaskCalculator\obj\Debug\SubnetMaskCalculator.Form1.resources
+C:\Users\Auris\Documents\GitHub\subnet-mask-calculator\SubnetMaskCalculator\obj\Debug\SubnetMaskCalculator.Properties.Resources.resources
+C:\Users\Auris\Documents\GitHub\subnet-mask-calculator\SubnetMaskCalculator\obj\Debug\SubnetMaskCalculator.csproj.GenerateResource.cache
+C:\Users\Auris\Documents\GitHub\subnet-mask-calculator\SubnetMaskCalculator\obj\Debug\SubnetMaskCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Auris\Documents\GitHub\subnet-mask-calculator\SubnetMaskCalculator\obj\Debug\SubnetMaskCalculator.exe
+C:\Users\Auris\Documents\GitHub\subnet-mask-calculator\SubnetMaskCalculator\obj\Debug\SubnetMaskCalculator.pdb
